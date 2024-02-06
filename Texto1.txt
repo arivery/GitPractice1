@@ -1,0 +1,2 @@
+Txto1.txt
+Esto es una prueba de texto
